@@ -1,0 +1,571 @@
+/* line 226, icons/*.png */
+.icons-sprite, .logo, .navbar .navbar-static-top .container .nav li, .measure, .manage, .manage:hover, .engage, .engage:hover, .inner_bg, .heating_icon, .water_icon, .electricity_icon, .waste_icon, .transport_icon, .travel_icon, .inner_measure, .inner_manage, .inner_engage, .red_arw {
+  background: url('../images/icons-s64cf8a3750.png') no-repeat;
+}
+
+/* line 5, ../sass/style.scss */
+html, body, div, h1, h2, h3, h4, h5, h6, p, img, dl, dt, dd, ol, ul, li, table, tr, td, form, object, embed, article, aside, canvas, command, details, fieldset, figcaption, figure, footer, group, header, hgroup, legend, mark, menu, meter, nav, output, progress, section, summary, time, audio, video, img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* line 11, ../sass/style.scss */
+body {
+  width: 100%;
+}
+
+/* line 15, ../sass/style.scss */
+.my_font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* line 19, ../sass/style.scss */
+header {
+  background-image: url(../images/header_bg.png);
+  background-repeat: repeat-x;
+  height: 100px;
+}
+
+/* line 26, ../sass/style.scss */
+.navbar {
+  margin-bottom: 30px;
+}
+
+/* line 30, ../sass/style.scss */
+.navbar-static-top {
+  height: 100px;
+}
+
+/* line 34, ../sass/style.scss */
+.span3 {
+  width: 217px;
+}
+
+/* line 38, ../sass/style.scss */
+.logo {
+  background-position: 0 -100px;
+  height: 66px;
+  width: 300px;
+  margin: 15px 0px 0px 5px;
+  display: block;
+}
+
+/* line 48, ../sass/style.scss */
+.top_list {
+  width: 570px;
+}
+
+/* line 52, ../sass/style.scss */
+.nav-collapse {
+  margin-right: 20px;
+}
+
+/* line 58, ../sass/style.scss */
+.navbar .navbar-static-top .container .nav ul {
+  margin: 0px;
+  padding: 0px;
+}
+/* line 62, ../sass/style.scss */
+.navbar .navbar-static-top .container .nav li {
+  background-position: 0 -1122px;
+  margin-top: 15px;
+}
+/* line 68, ../sass/style.scss */
+.navbar .navbar-static-top .container .nav li a {
+  font-size: 11px;
+  color: #77dd99;
+  text-shadow: none;
+  text-shadow: 1px 1px 1px #02603a;
+  filter: dropshadow(color=#02603a, offx=1, offy=1);
+  padding: 0px 7px 0px 7px;
+  line-height: 13px;
+}
+/* line 76, ../sass/style.scss */
+.navbar .navbar-static-top .container .nav li a:hover {
+  color: #FFF;
+}
+/* line 81, ../sass/style.scss */
+.navbar .navbar-static-top .container .nav .active {
+  color: #FFF;
+  font-size: 12px;
+}
+/* line 86, ../sass/style.scss */
+.navbar .brand {
+  padding: 10px 30px 0px 0px;
+}
+
+/* line 91, ../sass/style.scss */
+.navigation {
+  margin-top: 30px;
+}
+/* line 93, ../sass/style.scss */
+.navigation ul {
+  margin: 0px;
+  padding: 0px;
+}
+/* line 97, ../sass/style.scss */
+.navigation li {
+  float: left;
+  list-style: none;
+  padding: 0px 45px 0px 0px;
+}
+/* line 101, ../sass/style.scss */
+.navigation li a {
+  font-size: 20px;
+  color: #77dd99;
+  text-decoration: none;
+  display: block;
+}
+/* line 106, ../sass/style.scss */
+.navigation li a:hover {
+  color: #FFF;
+}
+/* line 111, ../sass/style.scss */
+.navigation .active {
+  color: #FFF;
+}
+
+/* line 116, ../sass/style.scss */
+.measure {
+  background-position: 0 -627px;
+}
+
+/* line 121, ../sass/style.scss */
+.manage {
+  background-position: 0 -668px;
+}
+/* line 124, ../sass/style.scss */
+.manage:hover {
+  background-position: 0 -709px;
+}
+
+/* line 130, ../sass/style.scss */
+.engage {
+  background-position: 0 -867px;
+}
+/* line 133, ../sass/style.scss */
+.engage:hover {
+  background-position: 0 -788px;
+}
+
+/* line 139, ../sass/style.scss */
+.navigation_img {
+  padding-left: 30px;
+  height: 21px;
+}
+
+/* line 144, ../sass/style.scss */
+.company_profile {
+  background-color: #fffff9;
+  border: 1px solid #d7d7d7;
+  -webkit-box-shadow: 1px 2px 2px 2px #e7e7e7;
+  box-shadow: 1px 1px 1px 1px #e7e7e7;
+  margin-bottom: 30px;
+}
+
+/* line 152, ../sass/style.scss */
+.company_img {
+  padding: 10px 0px 10px 10px;
+}
+
+/* line 156, ../sass/style.scss */
+.company_info {
+  width: 570px;
+}
+
+/* line 160, ../sass/style.scss */
+.drowp_down {
+  margin: 10px 0px 10px 20px;
+  width: 320px;
+  height: 28px;
+  font-size: 16px;
+  color: #222222;
+  line-height: 22px;
+}
+
+/* line 169, ../sass/style.scss */
+.company_name {
+  font-size: 14px;
+  line-height: 22px;
+  color: #555555;
+  width: 140px;
+}
+
+/* line 176, ../sass/style.scss */
+.company_details {
+  margin-left: 20px;
+}
+
+/* line 180, ../sass/style.scss */
+.type_area {
+  width: 350px;
+  margin-left: 10px;
+}
+
+/* line 185, ../sass/style.scss */
+dl {
+  margin-top: 0px;
+}
+
+/* line 189, ../sass/style.scss */
+dt {
+  color: #555555;
+}
+
+/* line 193, ../sass/style.scss */
+dd {
+  color: #222222;
+  font-weight: bold;
+}
+
+/* line 199, ../sass/style.scss */
+.box ul {
+  margin: 0px;
+  padding: 0px;
+}
+/* line 203, ../sass/style.scss */
+.box li {
+  list-style: none;
+}
+
+/* line 208, ../sass/style.scss */
+.heating {
+  border: 1px solid #dddddd;
+}
+
+/* line 212, ../sass/style.scss */
+.img_and_title {
+  background-image: url(../images/box_backround.png);
+  background-repeat: repeat-x;
+  height: 140px;
+}
+
+/* line 219, ../sass/style.scss */
+.inner_bg {
+  background-position: 0 0;
+  height: 80px;
+  width: 80px;
+  margin: 0 auto;
+}
+/* line 225, ../sass/style.scss */
+.inner_bg i {
+  height: 45px;
+  width: 32px;
+  margin: 18px auto 0 25px;
+  display: inline-block;
+}
+
+/* line 233, ../sass/style.scss */
+.circle {
+  margin-left: 200px;
+  padding: 5px 5px 0px 0px;
+}
+
+/* line 238, ../sass/style.scss */
+.heating_icon {
+  background-position: 0 -261px;
+}
+
+/* line 244, ../sass/style.scss */
+.water_icon {
+  background-position: 0 -444px;
+  height: 45px;
+}
+
+/* line 251, ../sass/style.scss */
+.electricity_icon {
+  background-position: 0 -505px;
+  height: 45px;
+}
+
+/* line 258, ../sass/style.scss */
+.waste_icon {
+  background-position: 0 -322px;
+  height: 45px;
+}
+
+/* line 265, ../sass/style.scss */
+.transport_icon {
+  background-position: 0 -383px;
+  height: 45px;
+}
+
+/* line 272, ../sass/style.scss */
+.travel_icon {
+  background-position: 0 -566px;
+  height: 45px;
+}
+
+/* line 279, ../sass/style.scss */
+.title h2 {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 22px;
+  text-align: center;
+}
+/* line 284, ../sass/style.scss */
+.title h2 a {
+  color: #222222;
+  line-height: 36px;
+}
+/* line 287, ../sass/style.scss */
+.title h2 a:hover {
+  text-decoration: none;
+  color: #030;
+}
+
+/* line 295, ../sass/style.scss */
+.measure_manage_engage ul {
+  padding: 0px;
+  margin: 0px;
+  height: 35px;
+}
+/* line 300, ../sass/style.scss */
+.measure_manage_engage li {
+  list-style: none;
+  border-bottom: 1px solid #f1f1f1;
+  border-right: 1px solid #f1f1f1;
+  width: 71px;
+  height: 35px;
+  float: left;
+}
+/* line 307, ../sass/style.scss */
+.measure_manage_engage li a {
+  display: block;
+  margin: 8px 25px;
+}
+
+/* line 314, ../sass/style.scss */
+.inner_measure {
+  background-position: 0 -750px;
+  height: 18px;
+  width: 18px;
+}
+
+/* line 321, ../sass/style.scss */
+.inner_manage {
+  background-position: 0 -829px;
+  height: 18px;
+  width: 18px;
+}
+
+/* line 328, ../sass/style.scss */
+.inner_engage {
+  background-position: 0 -976px;
+  height: 18px;
+  width: 18px;
+}
+
+/* line 335, ../sass/style.scss */
+.Consumption ul {
+  margin: 0px;
+  padding: 0px;
+}
+/* line 338, ../sass/style.scss */
+.Consumption ul li {
+  list-style: none;
+  border-bottom: 1px solid #f1f1f1;
+  padding: 10px;
+}
+
+/* line 345, ../sass/style.scss */
+.consum {
+  font-size: 12px;
+  line-height: 20px;
+  color: #888888;
+  float: left;
+  text-transform: uppercase;
+  margin: 0px 0px 0px 10px;
+}
+
+/* line 354, ../sass/style.scss */
+.red_arw {
+  background-position: 0 -1013px;
+  height: 14px;
+  margin-top: 20px;
+}
+
+/* line 361, ../sass/style.scss */
+.consum_per {
+  font-size: 20px;
+  line-height: 20px;
+  color: #555555;
+  margin: 20px 0px 0px 15px;
+  font-weight: bold;
+}
+
+/* line 369, ../sass/style.scss */
+.liters {
+  font-size: 13px;
+  line-height: 22px;
+  color: #555555;
+  float: right;
+  margin: 0px 5px 0px 0px;
+  text-align: right;
+}
+
+/* line 378, ../sass/style.scss */
+.liters_value {
+  font-size: 28px;
+  color: #555555;
+  margin: 20px 10px 0px 0px;
+}
+
+/* line 384, ../sass/style.scss */
+.cost_carbon {
+  font-size: 16px;
+  line-height: 20px;
+  color: #555555;
+  margin-top: 35px;
+}
+
+/* line 391, ../sass/style.scss */
+.margin_in_2_box {
+  margin-top: 20px;
+}
+
+/* line 395, ../sass/style.scss */
+.optinno_border {
+  border-right: 1px solid #d7d7d7;
+}
+
+/* line 399, ../sass/style.scss */
+h3 {
+  font-size: 18px;
+  line-height: 20px;
+  color: #333333;
+  margin: 30px 0px 10px 10px;
+}
+
+/* line 406, ../sass/style.scss */
+.h3_border {
+  border-bottom: 1px solid #dddddd;
+  padding: 10px 10px 10px 0px;
+}
+
+/* line 411, ../sass/style.scss */
+.project {
+  margin-left: 10px;
+}
+/* line 413, ../sass/style.scss */
+.project ul {
+  margin: 0px;
+  padding: 0px;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 5px;
+}
+/* line 418, ../sass/style.scss */
+.project ul li {
+  list-style: none;
+  margin-top: 15px;
+}
+/* line 422, ../sass/style.scss */
+.project ul ul li {
+  list-style: none;
+  font-size: 13px;
+  line-height: 24px;
+  color: #2277aa;
+}
+/* line 427, ../sass/style.scss */
+.project ul ul li a {
+  font-size: 13px;
+  line-height: 24px;
+  color: #2277aa;
+  text-decoration: none;
+}
+/* line 432, ../sass/style.scss */
+.project ul ul li a:hover {
+  color: #000;
+}
+
+/* line 440, ../sass/style.scss */
+.project_title {
+  font-size: 18px;
+  color: #666666;
+  font-weight: bold;
+}
+
+/* line 446, ../sass/style.scss */
+.list_dt {
+  margin-left: 40px;
+}
+
+/* line 450, ../sass/style.scss */
+.list_dt_area {
+  margin-left: 80px;
+}
+
+/* line 454, ../sass/style.scss */
+.choose_enchmark {
+  font-size: 13px;
+  color: #555555;
+  font-weight: bold;
+  margin-right: 40px;
+  float: left;
+}
+
+/* line 462, ../sass/style.scss */
+.group_type_text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-right: 20px;
+  color: #444444;
+}
+
+/* line 469, ../sass/style.scss */
+.radio_but_group {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+/* line 474, ../sass/style.scss */
+.radio_but {
+  float: left;
+}
+
+/* line 478, ../sass/style.scss */
+.radio_but_margin {
+  margin-right: 20px;
+}
+
+/* line 482, ../sass/style.scss */
+footer {
+  background: url(../images/footer.png) repeat-x;
+  height: 157px;
+  margin-top: 1px;
+}
+
+/* line 488, ../sass/style.scss */
+.software_ltd {
+  font-size: 13px;
+  color: #aaaaaa;
+  margin-top: 20px;
+  float: left;
+}
+
+/* line 495, ../sass/style.scss */
+.powered_by {
+  float: right;
+  font-size: 13px;
+  color: #aaaaaa;
+  margin-top: 20px;
+}
+
+/* line 502, ../sass/style.scss */
+.i_on {
+  font-size: 23px;
+  color: #27658a;
+  margin-left: 10px;
+}
+
+/* line 508, ../sass/style.scss */
+.profile_detail {
+  border-left: 1px solid #e7e7e7;
+  margin-left: 0px;
+  padding-left: 20px;
+  padding-bottom: 550px;
+  -webkit-box-shadow: 1px 1px 1px 1px #f8f9fa;
+  box-shadow: 1px 1px 1px 1px #f8f9fa;
+  border-shadow: inset;
+}
